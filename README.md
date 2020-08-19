@@ -2,7 +2,7 @@
 
 Welcome to the DOTS Samples repository!
 Here you can find the resources required to start building with these new systems today.
-We have also provided a forum where you can find more information and share your experiences with these new systems.
+We have also provided a forum where you can find more information and share your experiences with these new systems..
 
 [Click here to visit the forum](https://forum.unity.com/forums/data-oriented-technology-stack.147/)
 
